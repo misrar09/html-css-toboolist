@@ -1,0 +1,26 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(239, 237, 237);
+    margin: 0;
+}
+
+
+.logo-container{
+    background-color: white;
+    display: flex;
+    align-items: center;
+ 
+}
+
+.logo-container img{
+    width: 65px;
+    margin-left: 20px;
+    
+}
+
+.logo-container h1{
+    font-size: 40px;
+}
